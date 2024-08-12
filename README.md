@@ -2,6 +2,10 @@
 
 This application predicts the probability of winning for IPL (Indian Premier League) cricket matches based on various inputs related to the ongoing match. It uses a machine learning model to provide real-time predictions, helping fans and analysts estimate the chances of their favorite team winning.
 
+## Model Description
+
+This app uses Logistic Regression model to predict the probabilities
+
 ## Features
 
 - **Team Selection**: Choose the batting and bowling teams from a list of IPL teams.
