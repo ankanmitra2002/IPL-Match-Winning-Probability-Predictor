@@ -31,3 +31,6 @@ cd ipl-match-predictor
 ```sh
 streamlit run app.py
 ```
+### Screenshot of Application
+
+![Screenshot 2024-08-14 015828](https://github.com/user-attachments/assets/e0f4166e-dc8a-445e-b712-fbb180f83ff3)
