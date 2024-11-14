@@ -40,7 +40,7 @@ This application predicts the probability of winning for IPL (Indian Premier Lea
 - **User-Friendly Interface**: Clean and intuitive design using Streamlit
 - **Responsive Design**: Works seamlessly on both desktop and mobile devices
 
-## 🎯 Demo
+## 🎯 Demo Application
 The application is live and can be accessed here:  
 [IPL Match Predictor App](https://ipl-match-winning-probability-predictor.onrender.com/)
 
@@ -147,7 +147,7 @@ deactivate
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributors
+## Contributor
 - [Ankan Mitra](https://github.com/ankanmitra2002)
 
 ---
