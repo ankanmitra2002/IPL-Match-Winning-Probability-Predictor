@@ -1,13 +1,6 @@
 # IPL Match Winning Probability Predictor 🏏
 
-<<<<<<< HEAD
 This application predicts the probability of winning for IPL (Indian Premier League) cricket matches based on various inputs related to the ongoing match and historic data. It uses a machine learning model to provide real-time predictions, helping fans and analysts estimate the chances of their favorite team winning.
-=======
-This application predicts the probability of winning for IPL (Indian Premier League) cricket matches based on various inputs related to the ongoing match. It uses a machine learning model to provide real-time predictions, helping fans and analysts estimate the chances of their favorite team winning.
-# Site is live here-
-
-https://ipl-match-winning-probability-predictor.onrender.com/
->>>>>>> 2d1d2e129fcb4d307914c781265fe8819b25902b
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -114,7 +107,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-<<<<<<< HEAD
 1. Open your web browser and navigate to `http://localhost:8501`
 
 ## 🤖 Model Description
@@ -159,8 +151,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Ankan Mitra](https://github.com/ankanmitra2002)
 
 ---
-=======
-### Screenshot of Application
-
-![Screenshot 2024-08-14 015828](https://github.com/user-attachments/assets/e0f4166e-dc8a-445e-b712-fbb180f83ff3)
->>>>>>> 2d1d2e129fcb4d307914c781265fe8819b25902b
